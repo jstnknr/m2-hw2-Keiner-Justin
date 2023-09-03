@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title> All About Justin Keiner</title>
+        <meta description="This is a webpage about Justin Keiner that he is making for class!">
+    </head>
+    <body>
+        <h1>Biography</h1>
+        <img src="img/image.jpg" alt="A photo of Justin sitting behind his classroom desk sipping from a cup">
+        <h2>Youth</h2>
+        <p>Justin was born in Mississippi, but did not live there long as his father was in the navy. The Keiner family moved throughout the South East, eventually settling in Pensacola for 5 years. They then moved to Columbia, South Carolina, where they currently reside. Justin graduated from Blythewood High School. </p>
+        <h2>Education</h2>
+        <p>Justin started his higher education journey at Winthrop University in Rockhill, South Carolina. While he was there he was pursuing a degree in Art Education. He would transfer to the Unversity of South Carolina the following year. He graduated in May 2020 during the Covid-19 Pandemic.</p>
+        <h2>Career</h2>
+        <p>Justin is currently a teacher of the Visual Arts at Spring Valley High School in Columbia, South Carolina. He teachs a variety of classes including photography and media arts. Justin work at a local seafood restuarant on the weekends.</p>
+        <h2>Other Information</h2>
+        <ul>Justin has a fear of birds.</ul>
+        <ul>Justin's favorite food is pasta.</ul>
+        <ul>Justin greatly admires the works of Keith Haring and has adorned his body with tattoos of Haring's work.</ul>
+
+    </body>
+</html>
